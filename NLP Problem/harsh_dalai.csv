@@ -1,0 +1,833 @@
+9566,this would enable live traffic aware apps ,0.0
+9569,please try other formatting like bold italics shadow   distinguish titles subtitles from content ,0.0
+9576,since computers were invented   save time   suggest     allowed   upload them all   one zip file using numbering for the file names and the portal could place them   the right order ,0.0
+9577,allow rearranging   the user wants   change them ,1.0
+9579,add simd instructions for better use   arm neon instructions for math and games ,1.0
+9580,also using   hot swapping code generator optimized machine code like hotspot   java does would also   very helpful   mitigate slow  # code ,0.0
+9587,microsoft should seriously look into getting rid   symantec for all these payment stuff ,0.0
+9599,  would   extremely useful     variety   app types     notified upon call started and ended events   least   able   check whether   not the device   being used for   phonecall ,0.0
+9626,  would like   see informatin about the certification process   the dev center app ,0.0
+9628,  would   nice   see     glance     app   featured   one   the markets ,1.0
+9630,also   would   fun   have   record showing the featured markets and dates ,0.0
+9636,make progressring control available for windows phone just like win ,1.0
+9657,  would   great   the   moved     the second third etc nfc record and tried   trigger off   them until there was   success ,0.0
+9660,  need for our applications   each   the mobile platforms     able   read data     separate ndef records contained     ndef message ,0.0
+9670,provide process class apis like that for regular windows   develop lower level operations like task manager   windows,1.0
+9686,please add the possibility the set price market distribution and trial mode existence individually for the xaps ,0.0
+9702,add the ability     memory profiling   background agent periodic   they are limited   memory and sometimes its too hard   catch memory leaks ,0.0
+9706,either one has   use net   access   library   microsoft advises       net app with native code     winrt component ,0.0
+9709,don   limit   artifically just because you don   like native developers ,0.0
+9735,these page templates should   updated   use the medium sized semibold font   default for the title text ,0.0
+9750,task based operations would make the code much more clean and readable ,0.0
+9754,add   boolean   cameracapturetask   indicate whether you want     save the picture taken     saved   the camera roll ,0.0
+9755,please expose etw logging namespaces like system diagnostics eventing   that     possible   log events from the windows app ,0.0
+9756,currently the only way   take advantage   the direct manipulation     xaml windows store app     using   scrollviewer ,0.0
+9794,instead   having   top charts style listing where the most popular apps are displayed   every phone anywhere create   new form   distribution where the results are randomized every time   user looks   the marketplace ,0.0
+9796,highly rated apps should appear near the top more and they should appear less and less frequently and the rating   the app dwindles ,0.0
+9799,  seems     that all good apps games should have   chance   decent exposure   the top charts and waiting     featured just isn   worth   ,0.0
+9819,maybe you should think about some way   reward those users who take their time   actually try   app and review   ,0.0
+9829,  would   great     able   use the   emulator and surface emulator for that matter for mobility demonstrations     when   deliver   dynamics crm demo   often nearly always want   include mobility scenarios   the same screen   the rest   the demo ,1.0
+9873,  will even allow seamless migration   new hardware ,0.0
+9926,  would like   ask microsoft   give     tool option   emulator with which   can take screenshots once   one emulator and   will produce screenshots   all resolutions and all languages supported   our app ,0.0
+9929,you have   run one emulator take screenshots close   and run another and     ,0.0
+9978,sharpdx proves that those key technologies can   made available   csharp   would suggest   either support the project     provide your own interface ,1.0
+9980,  would   more natural   allow the physical search key   activate the search function   the active application rather than loading bing which   rarely the goal ,0.0
+9994,associate bound objects   data templates implicitly   type instead   explicitly   template name ,0.0
+10007,for more information see data binding ,0.0
+10027,    add optional support   hook these hardware keys press events for the lens plug   features hardware keys should include vol vol stage light press camera shutter stage deep press camera shutter ,0.0
+10028,when   application has problems   when   problem   detected   advance   the developer until the publication   the correction version the client   without knowing what   happening   would   possible for microsoft   implement   communications resource developer for customers who have installed its application ,0.0
+10168,read write accsess   email sync settings could enable applications   create custom sync profiles based   week days time position etc ,0.0
+10203,    impossible   connect easily   ftp network   suggest   include     the future sdk ,1.0
+10204,  hope microsoft can open asia voice function fastest,0.0
+10212,  need support special multitasking tasks like voip and   ,1.0
+10260,please add the possibility   add your own spell check service   provide the data     system wide one existed ,1.0
+10267,  microsoft created some incentives like   free device blackberry did this and   free year   membership amazon did this   could drive   lot   developers   the platform which   crucial   the platform taking off ,0.0
+10297,  would     really nice gesture   have   option wich can put everything   the other side   when left handed people scroll they could also see the content ,1.0
+10389,  would   great     able   have the emulator location data use the nmea file format either via file import export   using the files directly     feed ,0.0
+10408,currently you can only pin   album but   would   useful   you can pin   single image     tile that way you have easy access       ,0.0
+10459,why shouldn       user   able   see reviews made   people from other countries ,0.0
+10469,for apps that synchronize   connect   networks sporadically   would   handy   have   easy way   detect   you are     cheap connection     wifi   connected   the device   connected   the web via usb ,0.0
+10474,  suggestion     add properties like iswificonnected and iscableconnected   devicenetworkinformation that execute fast ,1.0
+10492,give developers good explanation what they   wrong and enforce good design ,0.0
+10494,apps should take   longer than seconds   start and need   explain why they would take longer ,0.0
+10540,please provide apis for call forwarding and other call management functions hold unholdswapconferenceetc ,0.0
+10541,    user   would like     able   select songs that   have put   the device from   library   wake     ,1.0
+10573,thus this idea   actually for the developers   make scrolling faster after each subsequent scroll like every scrolls the scrolling speed will increase ,1.0
+10583,  addition the user should   able   take   scree shot within the multitasking area   using   finger gesture   drag the app towarda the bottom   the screen   screen capture icon should appear and the outer edges   the icon should fill with green and onve the edges are completly green   photograph noise will occur allow with   sudden screen flare   tell the user the screen shot has been taken and saved   the saved images folder,0.0
+10600,  need the ability for developers   add relevant tags   their app descriptions   then need the ability   search for apps with those tags tags should also   verified during app submission   ensure theyre relevant,1.0
+10633,  will   pleasant     the main page   the app   the marketplace   see the general   sentation screenshots the other users reviews,0.0
+10636,allow user   send video audio and more pictures     mms now only one pic   supported,1.0
+10649,allow access   raw data such   signal strength imformation   allow creation   indoor location positioning using available wifi bluetooth   cellular networks when   gps data   available ,1.0
+10655,since windows phones are selling hot   countries like india browser should start displaying indian language characters ,0.0
+10677,and   smart dialer can then     full alternative   the built   phone app since the app also can have   quick button for goto the regular phone app whenever the user wants     that ,0.0
+10678,    alternative   giving write access   calendar which can   hard   get       for security reasons let     least open   appointment directly   the calendar app ,0.0
+2861,signal strength directly impacts video playback experience ,0.0
+2864,but reusing the operating system component saves   development effort and ensures   looks   expected   the operating system evolves ,0.0
+2874,you can ask for   request but     not clear what and when something will happen ,0.0
+2894,with windows   have the   app and the service app hosted locally may   the iis express used during local debug can   used ,0.0
+2897,this new approach   developing applicaitons simlifies the   development where developer get rid   learning other technologies like java scriptangularjquerystyle sheets and all those   number   scripts ,0.0
+2903,typical problem here would   deployment installationupdate   the   application   client machine but     simplify this process   deployment like having the rules that the   app should   only one obfuscated executable file   should not depend   reference more,0.0
+2909,bonus points for       xaml standard compliant,0.0
+2913,  addition this will allow   greater prominence   xaml standard and greater acceptance   the market and   the media ,0.0
+2927,don   require developers   use the background task builder and background triggers just   activate   app   the background ,0.0
+2930,  control that offers hour minute second selection would   helpful ,0.0
+2931,add   collectionviewsource function pointer   get the group objects not just propertypath,1.0
+2935,  datepickerflyout whose date   two way bound will update target   source but not source   target ,0.0
+2940,when functions and fallbackvalue   used       bind   same time the parameter must match exactly ,0.0
+2955,playback seamlessly between one media and another,0.0
+2977,  control for visualizing and editing networks graphs and flow charts,0.0
+2996,leave them alone ,0.0
+3000,does not make sense that   idle task would   suspended for not being busy enough ,0.0
+3001,making the task more busy   work around idle tasks being suspended would mean more battery usage kind   the opposite   what you want ,0.0
+3011,microsoft wants     build more connected app with project rome api ,0.0
+3019,    can extend brush   xamlcompositionbrushbase ,0.0
+3029,  also annoys during development because now   solution has   have target platforms while   could just have one ,0.0
+3034,what   want     drag and drop   file then   able   get its full path and file name   stored   the disk and access   using standard     file access functions such   fopen fread etc ,0.0
+3035,  don   want   use xaml because   looks complicated   looks like   can reduce performance     making   heavy directx based applications that need full performance ,0.0
+3045,for example   drag and drop   bmp image   app compresses   and saves   png image automatically   the same folder with the same name ,0.0
+3057,dual screen google card glass fulfill the function and make the application very attractive ,1.0
+3064,  wanna   commuicate other app   desktop ,0.0
+3065,not only other uwp but wpf application ,0.0
+3073,    done the same tests   uwp mode using dxgi_swap_effect_flip_discard and results were the same slow     win winapi ,0.0
+3082,from what   see astc would   great for that have good quality but also small size looks like   has lot   format options     could choose what   want ,1.0
+3102,    pretty sure the new treeview   not fall creators update dependent ,0.0
+3115,map became unusable after phone update ,0.0
+3118,resolvecompleted event comes after ten seconds ,0.0
+3123,  lines   traffic layer are blurred jagged and looking bad ,0.0
+3127,while nice looking uwp     not well suited for creating   heavy classic applications think visualstudio autocad blender lobs with   lot   data that you would never want   use   tablet phone ,1.0
+3135,  our isv uwp app also have this feature   can spent more time   trying the new feature and insider customer and testers can use   and   could got feedbacks ,0.0
+3153,because   you currently assign   binding   visualstate setter   below   will resolve the value   the binding and assign that   the target while you would like   assign the binding itself ,0.0
+3154,this will allow designs and implementations   change bindings depending   states and even help some states where some bindings are not required     temporarily set     null for performance handy   complex screens ,0.0
+3167,  can see the entries added   the registry but client cannot access the interfaces ,0.0
+3176,for example lets say   want   create shorthand for aligning   control inside relativepanel fully horizontal like alignhorizontalwithpanel ,0.0
+3183,allows desktop apps   incrementally adopt   innovations and creates   bridge   uwp for app   ,0.0
+3184,  tried the converted app using ime ,0.0
+3188,  want   improve support google ime ,0.0
+3194,  thinks     not difficult     since cortana for   supports     languages   listed   https support microsoft com     instantanswers                       cortana   regions and languages,0.0
+3240,you can verify this with the camerastreamcorrelation sample ,0.0
+3243,the following streams are available   the   ,0.0
+3248,the following streams are available   the xbox ,0.0
+3253,are there any plans   support skeleton tracking   the xbox ,0.0
+3256,  seems such   shame that the new kinect drivers expose the kinect via this api and yet the exposurecontrol   marked   being not supported for the kinect ,0.0
+3257,from the libfreenect library   seems entirely possible   tell the kinect not     auto exposure ,0.0
+3261,  expect that the content set directly the text   persist after closing the application ,0.0
+3264,    something that may cause   runtime crash and that the compiler clearly knows   flag should not   warning but   error ,0.0
+3270,xbox dev mode companion work ipv please ,0.0
+3271,make   really smooth   update code     uwp app like you are already doing with the xaml part the app   automatically reloaded without being shut down and relaunched ,1.0
+3284,  xaml designer for visual studio   windows ,0.0
+3304,the control would allow for the use   the contact picker but allows for manual entry and deletion   contacts ,1.0
+3309,  give the user   sense   consistency the file picker remembers the last location that the user navigated   and will generally start   that location ,0.0
+3311,this   not always the best solution for example pretend you had   uwp app that asked the user   select   picture and   music file ,0.0
+3336,    migrating   app from windows desktop using core audio api   uwp using hopefully audiograph ,0.0
+3348,  are exploring moving forward with uwp but currently there     way   access the pipeline   add custom shaders and models like     now   virtual earth with microsoft mappoint graphics   graphicsengine   and microsoft mappoint rendering   scene step ,0.0
+3357,    developing   java application   interop with  #   kinda tricky while interop shell api     libraries   pretty easy and straightforward with jna ,0.0
+3386,    very difficult   create   custom richeditbox with all the basic features like text formatting bullets and numbering support for inking like onenote and also   support adaptive layout that   too much work for basic text editing ,0.0
+3390,    creating app using face detection ,0.0
+3394,    put the mkv   another service   server the video   reproduced but the connection with onedrive has been lost ,0.0
+3417,  stops   the way ,0.0
+3430,chinese and italian support have already been asked for ,0.0
+3434,  some cases   access error may occur   the time   opening   file     may   opened correctly ,0.0
+3435,  want   solution ,0.0
+3527,something seems   have changed with loggingchannel possibly default manifest code that handles the string message has changed around ,0.0
+3528,fwiw preview versions   windows post anniversary update were showing the message correctly ,0.0
+3530,    like   have implicit datatemplates   uwp ,0.0
+3535,currently   can only input plain text   toast notification input since the type does not support password ,0.0
+3574,developers need   have good and deep understanding   how   virtualization works   uwp app,0.0
+3600,currently you can use the pivot   there are   party vendors providing   tabcontrol ,0.0
+3686,    converting some wpf apps   uwp and     missing   report control ,0.0
+3697,please open   the base classes for inheritance and provide   sample how   create   custom virtualizing panel ,0.0
+3706,without this uwp   more   less   toy because any customization requires that the app   deployed completely separately ,0.0
+3718,this   only relevant for desktop uwp apps ,0.0
+3722,you can   least provide any   these solutions ,0.0
+3748,    use this for   media phone playing groove ,0.0
+3766,the panorama control   still the best control for   app and   users love   ,0.0
+3767,updating the app   uwp   not possible without this control ,0.0
+3785,currently there     way   prevent menuflyout from closing when user click any   its items ,0.0
+3786,    not even sure       not   bug because setting args cancel   closing event   not working ,0.0
+3791,support     transactions   uwp platform   part   windows runtime api for file    ,0.0
+3796,for example three quick touch strokes   scroll immediately   the top   bottom ,0.0
+3797,really long lists and views are boring   scroll even   maximum scroll speed ,0.0
+3798,keyboard have home end keys   scroll   top bottom but touch screen doesn   have same capability ,0.0
+3816,but this library   fairly low level ,0.0
+3841,that concept   painfully evident when using microsoft   edge browser and you want   browse various favorites menus ,0.0
+3844,specifically excellent mouse support means that menus will support all the hover actions that menus currently enjoy   win applications ,0.0
+3846,the current situation requires two mouse clicks   accomplish the same thing     simple hover should ,0.0
+3857,  don   know what the component should look like ,0.0
+3861,  can happen that sometimes     need   control   store   list   pages elements that looks like   pivot control but with   infinite list   pages elements ,0.0
+3873,    tried   find other ways such   excel access   sql server compact edition ,0.0
+3891,  application would request secret api keys   needed from system provided secure storage ,0.0
+3893,release appx shouldn   have secret keys inside and keys should     windows store server and those keys would   requested from server   application install ,0.0
+3918,another advantage   the developer already have   preview   design mode,0.0
+3929,the idea would     have   try button   every sample ,0.0
+3930,this button will generate   ready   use visual studio project with the current sample ,0.0
+3931,  seems that animated gifs disappear when application minimizes restores ,0.0
+3956, allow the user   select items drag them around and resize them ,1.0
+3964,  currently have   store app that works with our desktop app and   causes   great deal   confusion ,0.0
+3971,  you need anything from   for any reason   will   what ever   need       improve our software for our users ,0.0
+3979,  developer   want   create custom picker like date   time pickers,0.0
+3991,you can   scroll   that point ,0.0
+4014,     xaml page there are some buttons and command bar buttons both   which have access keys set ,0.0
+4046,    working   porting   app that could calculate   checksums     file ,0.0
+4081,being   enterprise developer the advent   big data   believe the seadragon pivotviewer lastest binaries should   ported over   wpf uwp apps         well needed tool ,0.0
+4085,since   are preparing   custom control with the scrollviewer the look and feel   not nice ,1.0
+4089,microsoft   loosing   huge market   not supporting   full net standard ,0.0
+4097,evidently the mediacomposition saveasync api internally uses the storageapplicationpermissions futureaccesslists api which has   limitation   items ,0.0
+4098,  you add more than clips created via mediaclip createfromimagefileasync the api will fail with this exception ,1.0
+4100,  item must   removed before another item   added ,0.0
+4101,additional information the maximum number   items for the access list has been reached ,0.0
+4110,  case app   installed     card and notification uses custom audio file default notification sound   played instead   custom audio file ,0.0
+4117,  the end developers have   use some workarounds   simulate old behavior ,0.0
+4118,you can see that even apps list       simulates old behavior instead   default one ,0.0
+4133,when using   radio   have   headphones plugged   ,0.0
+4140,this would make replying   messages etc ,0.0
+4169,  know     not possible   the moment specially with all the hardware limitations but   you guys really are working     surface phone bringing visual studio     will     huge ,0.0
+4177,the problem   the output port names are enumerated   the uwp api   just midi and not the name   the port   defined when they were setup ,0.0
+4178,reaper and other desktop programs are displaying the proper name ,0.0
+4192,including windows   shouldn   generate compile warnings even the extra ones ,0.0
+4222,that would make all the users happy ,0.0
+4224,hololens let   you render   backbuffers stereoscopic but     hard   know   the output   correct because the emulator shows just one frame ,0.0
+4228,there     bug   uwp where special characters are interpreted   letters when using multi layered keyboard layout like the german neo layout ,0.0
+4232,    also   total annoyance when working with data that require handling   lots   special charecters like json and xml data ,0.0
+4249,looking forward   the progress you   doing  ,0.0
+4250,with project rome   can discover devices   others connect with them and launch apps   leverage app services once consent has been established ,0.0
+4256,this feature   implemented   the accessory api which   restricted   only smart watch makers ,0.0
+4261,this would allow them   know that additional awesome features are there ,1.0
+4265,the windows display language     computer   set       because       app developer and most app problems and solutions are written   english ,0.0
+4271,such functionality   common   music apps   google play store apple store blackberry world ,0.0
+4272,  most cases such apps can   ported   uwp platform and because they are coming from   posix linux the network api   bsd sockets   well   some complex network communication libraries can   used   support this   that network oriented functionality ,0.0
+4273,currently the network data flow   boroken once app goes into background   screen   switched off ,0.0
+4287,can   app purchases made available   windows store for business ,0.0
+4293,these channels are not accessible with the current audiograph api   ,0.0
+4317,  has support for linux and   think windows should gain support too ,0.0
+4329,and the dac folder   empty ,0.0
+4353,hello dev team ,0.0
+4366,  the app settings you can disabled the swipe open   make the swipe   detection area wider   the user   phone makes getting close   the screen edge difficult ,0.0
+4382,  there should     way   either swap out style xaml rsourcedictionary files and   pieces   more,0.0
+4388,any feedback   appreciated thanks john ,0.0
+4402,xaml apps can detect   but there     equivalent winrt api for   apps ,0.0
+4404,  html perfectly fine   windows but not   windows mobile ,0.0
+4428,    information this   the xaml control that contain the complex attribute property ,0.0
+4442,    opinion this feature   really fundamental much more important     than many new features that appears regularly ,0.0
+4456,according   the documentation the proper way   handle input     store app     create   coreindependentinputsource from another thread   calling swapchainpanel createcoreindependentinputsource ,0.0
+4464,devices with touch input are the ones that suffer the most from this bug since they come with weak gpus ,0.0
+4465,devs have   chose either low responsiveness   low performance ,0.0
+4484,the application will exit ,0.0
+4501,having   api allowing getting the color   the pixels under   pointer eventually throttled async and only when having pointer capture   would increase the expressiveness   the creation tools   uwp applications ,0.0
+4522,    manually having   keep   list   these when   would   easily managed   the dashboard   the status properly reflected this ,0.0
+4526,the current status only seems   show   progress   the app has never been put   the store before ,0.0
+4537,meanwhile the perf counters are difficult   associate with   specific application requiring the request queue   named which httplistener does not   and netsh called   find url group ids   use for correlation ,0.0
+4545,  did   research   audioframeoutputnode     strange that   often generate audioframe without any audio data the audioframe   duration property   miliseconds but the relativetime property   not ,0.0
+4553,for example   user send     feedback   ask   windows   version   our app but now   are focused   windows     need     clear that   read his feedback but     not   our roadmap ,0.0
+4555,after that the age rating questionnaires stop submitting when you press submit ,0.0
+4572,  example   this   application     node     internal media network would   something along the lines   audiobus for ios ,0.0
+4575,extrapolate the above capabilities   audio allowing   the fly add remove interconnectable reroutable audio nodes virtual interface devices   which apps devices would attach   instead   attaching only   hardware interfaces ,1.0
+4578,same for video not only making desktop window screen capture   breeze and naturally handle   the     would also allow the creation   virtual screens resource permitting   course for desktop expansion mirroring outputting them     video input recording apps usb   even     dlna receiver screens ,0.0
+4582,this would allow the user through the     detach   app media output from its default interface audio midi card screen window and   attach     another app   device input ,0.0
+4587,what     will exchange apps reviews ,0.0
+4590,  like the ease   the app and recommend this app   all ,0.0
+4593,  have largely ignored this   the past because   was minimal but someone   finding good success with     they   hammering everyone ,0.0
+4594,personally     getting   day from different source email addresses ,0.0
+4595,removing the support email from the webpage would not hinder the user   they can see   via the windows store app ,0.0
+4605,   user     lunch viewing their sensitive documents ,0.0
+4606,they switch   their email app our application detects active state change and auto logs out ,0.0
+4607,they finish their food and leave but forget their phone   the table ,0.0
+4608,   this point   perpetrator   able   take the phone open the recent apps section and now can see whatever our client was looking   ,0.0
+4609, user     their desktop observing files gets   and makes the app inactive minimizes   moves   back ,0.0
+4610,  begin   timer   auto log out ,0.0
+4611,   perpetrator   able   hover over the taskbar item and see the last screen drawn whether   not the user logged out ,0.0
+4620,sorry     sound bitter but   must say     very frustrating developing for   mobile   the moment even   the you get good reviews the chance   them being displayed   the store   very slim due   the version fragmentation ,0.0
+4621,    understand   insider reviews that aren     the slow ring are removed even worse they   deleted permanently from even the developer dashboard ,0.0
+4622,people took time   write thoughtful reviews and they   simply deleted ,0.0
+4623,    started   continually download review reports   just have   record   them,0.0
+4624,    had over fifty star reviews simply disappear never     seen again ,0.0
+4625,  see the point that insiders shouldn   bring down the ratings   the app   the       blame but with   few people rating anyway and most people being   the fast insider ring   makes   extremely hard   get reviews ,0.0
+4626,old windows phone retain their status   being the most highly rated just because   this ,0.0
+4627,what   the point   having   rule   that means there   too few reviews and   point for most people   post reviews   all ,0.0
+4628,    not quite sure what   good solution   you cold allow only reviews for fast insiders but   guess that might skew reviews too positively ,0.0
+4629,  why not let the text review stand even   the rating doesn   count ,0.0
+4631,      getting   accurately impressions   apps through reviews doesn   seem feasible ,0.0
+4651,the caller does not have the required permission   perform this operation ,0.0
+4668,iot introduced the windows system processlauncher for starting arbitrary programs like process start   net ,0.0
+4674,note when executed dns client service crashes,0.0
+4676,comment out the textattributes line and note service does not crash,0.0
+4679,  have bound the ispaneopen     splitview     property     viewmodel ,0.0
+4680,this works nicely except when the splitview     overlay mode and the user presses   hardware back button   the phone ,0.0
+4681,  this case the splitviewpane gets closed   expected but   does that   seemingly overwriting the binding   ispaneopen and instead setting   directly   the value false ,0.0
+4682,the effect   that the panel can never   opened again     code will   this   setting the   property   true but the binding was already lost ,0.0
+4685,  practical terms you are forced   make     technology diversion   implement new functionality ,0.0
+4686,xaml doesn   look   tempting option because not useful for mobile   web and needed controls usually implemented   javascript first,0.0
+4687,    application architectural level porting winforms   html   favours   entirely new application which follows   understood accepted architectural pattern then   implement old functionality ,0.0
+4689,  imagine the app   question was one written       employee       net with deep domain knowledge targeting users with similar domain knowledge for   specialist task with   design documentation beyond   description     manual process   replaced ,0.0
+4690,well this   the norm and for all     wrong   its there ,0.0
+4691,never had budget assigned   the first place and     used   people who are all busy ,0.0
+4693,given the architectural barrier   the killler   don   believe there   any feature   gdi which cannot   expressed   html ,0.0
+4694,the   may not adhere   good gui design principals     performance may suck but   probably won   ,0.0
+4695,but     users can start   and   will look and act the same     did before arcane controls and all ,0.0
+4696,the architecture     modern html appliication has much more   common with gdi and   windows message loop than   does with xaml ,0.0
+4697,things like redux essentially   out   their way     like   message loop   avoid race conditions through async operations ,0.0
+4698,for microsoft this would   believe solve   massive developer stumbling block even allowing winforms controls   potentially   integrated   html     ,0.0
+4705,  imagine the app   question was one written     more,0.0
+4706,microsoft finally developed   library able   handle nfc devices ,0.0
+4707,unfortunately the library   only able   get the ndef messages and doesn   give the uid   the card ,0.0
+4708,  there   reason why this uid   not saved   the proximity device once the nfc card   read ,0.0
+4711,but   has   similar property   uwp   api ,0.0
+4713,you reproduce this   mobile build system ,0.0
+4714,currently there     way   attach debugger   already running process via attach   process   mobile ,0.0
+4715,and sometimes bad bugs like deadlocks happens ,0.0
+4716,and its real pain   investigate them since usually they happen without debugger and   release builds ,0.0
+4717,windows mobile   like back box you can   get full access   ,0.0
+4722,frankly speaking     surprised that   was not there from the very beginning ,0.0
+4743,all that happens without any real user attendance which makes those triggers useless ,0.0
+4744,    there was   unattended power state for that situation and there was   way   detect real user interaction with the device ,0.0
+4746,current behavior   systemtrigger useraway and userpresent   unexpected ,0.0
+4748,phone   sleeping with screen turned off,0.0
+4750,some event occurs sms incoming call toast ,0.0
+4754,usernotificationchangedtrigger fired,0.0
+4756,userpresent trigger fired,0.0
+4758,after some short timeout screen goes off,0.0
+4764,this     personal favourite mobile file open picker the app suspends but   cannot   debugged ,0.0
+4765,all sorts   surprises can happen with   complex app ,0.0
+4766,before uwp currentculture reflected the regional settings format and currentuiculture reflected the display language ,0.0
+4769,  shouln   have   relly   workaround like this one https www pedrolamas com cultureinfo changes   uwp ,0.0
+4772,  would     lot like facebook messenger   chat heads ,0.0
+4775,  many things could   done with   ,0.0
+4776,  found that phonetriggertype enum includes useful triggers except the trigger when   call   received ,0.0
+4786,torch api doesn   work   lumia with windows phone support such   lumia ,0.0
+4788,currently uwp have less readable grayscale font smoothing ,0.0
+4789,  makes uwp apps look worse than desktop apps   standard dpi screens ,0.0
+4791,sometimes compass getdefault returns null and compass stop working   all apps ,0.0
+4792,  solve   need   restart the phone ,0.0
+4794,  the following msdn magazine article     mentioned that there are some limits for voice command deffiniton files ,0.0
+4799,  use windows sapi quite intensively for   application   have built and many grammars are easily much bigger than the limits imposed   cortana ,0.0
+4800,this makes     bit tricky   port the recognition engine part   the application away from sapi and towards cortana since sapi provides more powerful capabilities for larger sets   commands ,0.0
+4810,unfortunately     not going   know all uri   the cookies are   without tracking every single domain visited which   what   currently have     ,0.0
+4811,    this     can clear all cookies ,0.0
+4812,  api that would take minutes for someone   write   and save     lot   coding  ,0.0
+4814,  secondary   that   deleteallcookies   clearcookies api   that   the only reason   need   get all   them and   can   think   any other use cases   retrieve all cookies ,0.0
+4815,happy     either way ,0.0
+4825,user interaction depends     ,0.0
+4826,searched   and down   get this done   windows   success ,0.0
+4827,similar has been accomplished   pre ,0.0
+4828,used win   where   granted more access   source code ,0.0
+4832,pedestrianfeaturesvisible can   toggle only   mapstyle   set   road ,0.0
+4834,currently when using   controlchanneltrigger with httpclient you cannot send   https request without the application getting terminated   the system ,0.0
+4836,  tested using https and     surprise   does work with the debugger attached   exceptions get thrown       implemented ,0.0
+4837,however termination occurs when the application   not connected   the debugger ,0.0
+4840,audiograph created with custom desiredsamplesperquantum ignores   and uses default   quantum ,0.0
+4843,depending   hardware you may hear gaps right after start   you may need load cpu with some additional work like scrolling     running some work   background threads ,0.0
+4844,  guess     result   extremely short quantum size   even switching between threads could take more time and too low buffer length quants but   could   just some synchronization issue ,0.0
+4846,slider renders   extreme right value instead   zero,0.0
+4847,  have   app where   use   custom title bar   extending   view into the title bar area ,0.0
+4849,then   also use code like this   allow   custom element   support dragging   the window ,1.0
+4851,this all was implemented pre anniversary update ,0.0
+4852,while all this works fine   bug was introduced   the anniversary update where the title bar returns zero for height systemoverlayrightinset and systemoverlayleftinset now ,0.0
+4854,  confirmed that   pre anniversary update these properties would return values like for height and for systemoverlayrightinset ,0.0
+4873,the use   the file type filter makes   sense when you are picking   folder and     not menioned   the documentation,0.0
+4875,suppose   have   app with two modes like zune normal and mini ,0.0
+4876,  the mini mode the app only presents the indispensable and small elements   the window ,0.0
+4879,  know maybe     not   the microsoft   priority list but   believe   can somehow make   available ,1.0
+4882,but that would   nice ,0.0
+4883,    like   build universal windows apps ,0.0
+4893,  the moment     possible   install   the application install directory but the files there cannot   altered   the application ,0.0
+4894,  the application copies the files   the application data folder after installation   done     work around   cannot delete the original files   the installation folder   this having two versions ,0.0
+4896,after the anniversary update the store shows default the ratings   current version ,0.0
+4897,this   very annoying for developers   good and populair apps ,0.0
+4898,  potential user viewing   the store will most likely make his judgement   download based   the number   reviews and quality   reviews especially since the windows store does not show the total number   downloads ,0.0
+4900,  for app publishers this will     reason   keep app updates     absolute minimum   order   get   many ratings   possible ,0.0
+4902,    least last days ,0.0
+4911,  want   know     make custom title bar that looks exactly   defult one except with   controls ,0.0
+4912,    able   get systemaccentbrush but   can   get actual window title bar   color becouse   depends   this show accent color setting ,0.0
+4913,    already asked the forum where you can find the detailed description   the issue ,0.0
+4917,  often mis classify the direction ,0.0
+4918,      didn   know where   post this but since the library     windows media ocr namespace   put   under media,0.0
+4919,using resources     datatemplate worked just fine before ,0.0
+4920,now that     upgraded   anniversary and installed the newest sdk and tools the newest visual studio update   doesn   work   expected   all ,0.0
+4930,this will crash   instantiation because somehow the viewmodel object   null when the bindings are updated which was definitely not the case   previous versions and surely not the expected behavior ,0.0
+4931,    replace the   bind with   binding   will run but   using the datatemplate for multiple objects for example     gridview the resource will have the same value for all instances which makes   really pointless ,0.0
+4946,some apps have such poor startup perf that ngen   must ,0.0
+4948,  since this     store app will the standard background ngen work for wpf apps ,0.0
+4949,    not like the recent change   the dev center ,0.0
+4950,first   all   shows cumulative acquisitions rather than for   specified amount   time making   hard   compare which apps people like more     app has been available longer   course the cumulative acquisitions will   higher ,0.0
+4951,also being able   see only some   the apps   the same time   very frustrating ,0.0
+4954,currently     part     sample ,0.0
+4958,  simple   clickonce publishing ,0.0
+4959,    not want   convert msis,0.0
+4972,right now the new devcenter offers the ability   sort   apps   included markets base price and last modified ,0.0
+4975,  can see   when       definition   serialdevice ,0.0
+4977,  order   break   code   dependency   actual hardware     could automate   tests   had   reinvent the wheel ,0.0
+4978,  keeping this interface internal   was forced     create the interface mostly and create   wrapper around serialdevice that implemented   ,0.0
+4979,that     lot   code   write when the interface already exists ,0.0
+4981,after   application open office document programmatically   background link     appears   quick access area   file explorer ,0.0
+4982,    not good thing because     not needed   share this with users ,0.0
+4993,enabling   custom provider   the realtime etw tracing page   windows device portal shows   details other than the timestamp for each event ,0.0
+4994,    been using perfview and that works great and shows the event details payload keywords level etc ,0.0
+4996,  was just hoping   use the portal for realtime monitoring but   doesn   appear     working correctly ,0.0
+10067,allow   developers create   custom keyboard ,1.0
+10414,  immediate approval   not possible then apps that have been published should   immediately available ,0.0
+5330,windows app store categories has tremendous potential   interact and request the conent consumers and content providers lack   interaction makes   less exciting ,0.0
+8448,now   work but the the header   first group   not displayed ,0.0
+8858,  the phone doesn   have   accurate location simply return what   does have ,0.0
+9104,  and two friends   mine created   app that won     windows hackathon held   microsoft cyprus ,0.0
+6773,    far     can tell the combination splitview pane pivot   the cause for this problem ,0.0
+7175,  submitted   word game   the apple app store ,0.0
+6714,please don   neglect this suggestion     not saying   copy anyone ,0.0
+5840,this way the already paid for     wifi network cable etc ,0.0
+7737,   before calling the method   remove the attendee   won   crash,0.0
+7172,not just send   mail somewhere ,0.0
+5427,could you make   option   the sdk installer for just the tools ,1.0
+6177,currently this   not possible because when trying   add custom headers   the content using the below code ,0.0
+7930,please make   available also for   developers here   kenya,0.0
+5445,there   what   consider   security issue   uwp applications that   feel should   addressed ,0.0
+6830,best regards leo ,0.0
+4998,not sure   this has any relevance ,0.0
+4999,    working   location based apps ,0.0
+5000,    using mapicon   show user current location ,0.0
+5001,now   want   allow the user   drag that mapicon but there   not   event   that ,1.0
+5005,when creating   login page   found that when placing the focus   the user name field the header and textbox added   additional box around the field   indicate focus ,0.0
+5006,however   the password box the field focus does not occur ,0.0
+5008,since webview lacks support for manipulation events   acts     huge gesture eater which doesn   let its parent controls like scrollviewer flipview   take control   gesture like scroll swipe etc ,0.0
+5009,  becomes impossible   use   webview along with other xaml elements   the same view ,0.0
+5011,  selectionmode   none     listview its really hard   know which item that     focus ,0.0
+5013,also setting which item     focus   hard   well ,0.0
+5015,  there are some better way please let   know ,0.0
+5016,the ways   found feels   bit clumsy ,0.0
+5023,  work around this   checking device family ,0.0
+5026,but the modern winrt network api which   based around streamsocket and the corresponding streamsocketcontrol   not provide   option   enable tcp timestamps support ,1.0
+5027,which   not future proof ,0.0
+5028,yes   know         developers   can use the traditional winsock api setsockopt can   what   need but that will tied     the old self manage threads model which   not pleasing ,0.0
+5030,rfc tells the story   much greater detail ,0.0
+5033,  have   app   the store   make   live tile clock ,0.0
+5035,  checked with multiple clock tile apps   the store and they all have this same fundamental issue ,0.0
+5036, blank   app logo   tile until tile notification refreshes ,0.0
+5038,something like what htc shipped with their windows phones ,0.0
+5039,    effort   minimize overhead may the system settings could allow for only one selected clock app     running ,0.0
+5047,right now creating   isolated environment fails for some installers ,0.0
+5051,  was able   run the converter   build and ,0.0
+5052,however   build   got this error ,0.0
+5059,    got the clean   install but   app level resets ,0.0
+5061,  people really launch their app and then get their file they wanted   strong experience   people find their file and then let the file type associations work for them ,0.0
+5063,the fta   are meant     user changeable,0.0
+5064,currently   have       request   the server   check the certificates extract the public key and verify       ,0.0
+5065,currently   cannot access the handshake   the httpclient where the ssl pinning verification should   done ,0.0
+5067,was scratching   head wondering what was going   until   enabled verbose msbuild output ,0.0
+5068,seems     specified layoutfile   appxpackagefilelist   missing   file copy   skipped and   other output occurs ,0.0
+5072,the vsdproj extension doesn   immediately load this value into the project property window packagelayout text box until you change your configuration from its current value   something else and back again ,0.0
+5074,web view   not supporting   appdata local uri for rendring images into web pages that are hosted   installed location ,0.0
+5076,  gatt notification arrives from   sensor ,0.0
+5077,  only get seconds     something with   ,0.0
+5078,  want   tag the location but gps takes longer than that   lock ,0.0
+5085,    virtually impossible   tell how much you will   getting paid   paid apps and iaps ,0.0
+5086,the reserved amount updates daily but that   never the actual number paid out ,0.0
+5087,for example   you see   reserve there needs       way   know that you might expect about         paid while the rest   held over ,0.0
+5088,the uwp provides   couple   options   access files and folder ,0.0
+5090,unfortunately access   only guaranteed via storagefile storagefolder ,0.0
+5091,this makes   hard   port existing codes that make intensively use   the other api ,0.0
+5093,right now attempt       using win   stdio will result   permission denied which   total nonsense basically saying that     give you these api options but   dare you   try   use the classical one ,0.0
+5101,this will make   possible   have continuous deployment process for the platform ,0.0
+5102,give the public yet another reason why the windows dev platform   the best ,0.0
+5104,currently   customizing titlebar background and foreground but border   not ,0.0
+5107,sometimes   only have   storagefile and   would like   launch the explorer   display that file ,0.0
+5108,        need access   the file   storagefolder and pass that   launchfolderasync ,0.0
+5111,    using the raspberry   with the nxp nfc modul ,0.0
+5112,several card standards are possible ,0.0
+5113,companies and public services using encrypted cards use   key   read data card   confidential data ,0.0
+5115,  have   server cloud backend   part   our product ,0.0
+5116,each costumer may run   different version   this backend software ,0.0
+5120,the sole purpose     using the sfb     limit what apps users can see and install ,0.0
+5123,actually the list   installed apps are useless   terrible just shows one app     time,0.0
+5128,xaml supports inking   that   user can handwrite directly into   textbox using ink which   then converted automatically into text ,0.0
+5129,this was demo     one   the apps   the build event   london ,0.0
+5134,actually initially   constructed the msi   placing the folder   the documents folder but the centennial does not install   there but   the vfs ,0.0
+5135,  will   hard for the user   find these kind   folders too ,0.0
+5140,    adding some screenshots too ,0.0
+5141,you can install those android apps yourself ,0.0
+5153,now   promotional codes allows his owner   get paid aplication from the store only   ,0.0
+5155,discount codes are   very important marketing too wich   overlooked   the store,0.0
+5156,currently     app developer submits   update     exsiting lob app the update bypasses the business store and the app   automaticallyupdated ,0.0
+5158,this gives enterprises the control   when the updated app   deployed   their users       that   does not conflict with other updates etc,0.0
+5159,support hybrid html cordova applications and windows mobile,0.0
+5161,rdlc report viewer with report designer   winform apps was the easiest way   get the job done ,0.0
+5164,but after   deploy the sample code     phone arm   throw this exception ,0.0
+5165,sample code   onedrive here ,0.0
+5167,that   the thread   msdn form ,0.0
+5169,  you try   open   file   file type association linked filetype then you will have   file access   most   the open file with this app scenarios ,0.0
+5170,the only way     grant file and folder permission     the folder picker which itself have   default folder parameter ,0.0
+5171,  this   really terrible for   app ,0.0
+5173,currently     possible       using winium but not possible     using winappdriver ,0.0
+5174,the file explorer   device portal lets you look   dat files the ones where localsettings and roamedsettings are stored but there     way   edit them ,0.0
+5176,ssml   not fully supported ,0.0
+5180,our users occasionally experience freezes   our current high data volume  # net app that   believe   because   garbage collection ,0.0
+5181,having   move     for this would mean   drop   productivity for our developers ,0.0
+5182,should show temperature data   device portal ,0.0
+5185,user can     expected   keep the window maximized ,0.0
+5186,this makes sense for phones and tablet mode but for desktop and dedicated use devices     just   limitation ,0.0
+5187,iot supports   single app     isn   affected but windows mobile   ,0.0
+5192,issues like this make   hard   use uwp   business use cases ,0.0
+5195,  uwp     take over for win this   basic requirement ,0.0
+5199,    trying   build   solution based   windows mobile that runs   single assigned access app ,0.0
+5201,  can use fiddler     desktop   view   network traffic ,0.0
+5203,  run the converter   powershell but   can not finish the work though   doesn   report any problems ,0.0
+5204,  other works   keeps running state here   the complete log ,0.0
+5206,attempting   choose the most recent one compatible with your version,0.0
+5207,  have several instruments that implement   api via soap   linux that presents     wcf service ,0.0
+5208,unfortunately   can   create uwp apps because there     support for the custom wcf binding which   needed   talk   these instruments ,0.0
+5209,    love       ,0.0
+5211,centennial cmd line arguments ,0.0
+5212,appx shortcuts   not support command line arguments ,0.0
+5215,not sure   this   the right place but   seems that the makeappx commando doesn   like rels xml files   added   the   setup ,0.0
+5216,  ran   multiple times yout   find the reason but   crashed with this errors every time when   got     rels file ,0.0
+5233,just like   user have right for review   should developers   able   respond   each and every reviews submitted   the store ,1.0
+5234,    user plans   opt out from   response from developer   not email the user   response but still allow   response   made publicly visible ,0.0
+5235,needless   say why because the current implementation   being exploited   submit false reviews and not allowing the developers   respond ,0.0
+5236,since application insights for mobile   discontinued soon the dev center analytics will   broken ,0.0
+5237,actually exceptions thrown   uwp apis are just painfully awful ,0.0
+5239,too many empty stacktraces too many   error   occurred too many approximative and vague exceptions ,0.0
+5240,  understand that the unnecessary javascript made winrt insanely complex   design but please ,0.0
+5241,exceptions are there for   reason not   just     error has occurred message ,0.0
+5247,there     cordova plugin with admob for windows phone but there   still   plugin adcontrol and specific mediation   cordova ,0.0
+5248,admob does not release windows phone support and has   roadmap       ,0.0
+5249,smaato has already supported   but there are not plugin developed yet ,0.0
+5251,this will help   bring our apps   windows phone and windows universal platform ,0.0
+5252,system diagnostics process start path with path pointing     folder     html file     txt file etc results  ,0.0
+5256,the only solution found was   use startinfo with explorer exe for filename and path for arguments ,0.0
+5259,soemthing gone wrong   one   the latest builds currently     workong   and after picking   file   folder the app crashes ,0.0
+5260,sometimes   returns for   second but remains inresponsive ,0.0
+5261,evertying seemed   work just right few builds before now many users report   problems ,0.0
+5265,while debugging   you click suspend the app and   will hang and after   while your phone will likely restart ,0.0
+5274,today there     handler for newwindowrequested   create new window but there seems       way   handle window close call from javascript for example ,0.0
+5277,uwp single page app with webview   only control ,0.0
+5279,when app   activated webview control gets focus and receives corresponding event but the content   the webview   html does not get   focus and document hasfocus remains false ,0.0
+5280,  user clicks   the html document hasfocus becomes true and webview receives lostfocus event ,0.0
+5281,expected behaviour webview focus     sync with document hasfocus ,0.0
+5283,  seems     that the base image runs some sort   firstrun setup everytime   centennial installation   executed ,0.0
+5285,wouldn       better   call this firstrun setup once and apply     the base setup ,0.0
+5289,give     print function for the uwp webview control ,0.0
+5291,problems mediaplayer class play audio will delay   ,0.0
+5293, audio file length less than     will not playing ,0.0
+5295,    did some research   decompile one   those app and found   used mediaplayer class for playing audio filethen   wrote   demo and the same problem did occur ,0.0
+5296,but   don   have enough evidence   prove that ,0.0
+5297,  will   great appreciated that anyone see this will help   vote       microsoft can aware and fix itit   really important for those who learning english and looking   vocabularies frequently   daily life ,1.0
+5298,thank you very much ,0.0
+5308,  currently use the codedui testing framework     allows     logon         different user password ,0.0
+5309,the sites that   test use windows authentication and asp net impersonation   they run     intranet ,0.0
+5310,    not use basic authentication   cannot pass credentials   the url ,0.0
+5313,this means that   are forces   use the codedui framework ,0.0
+5322,windows app store categories has tremendous potential   interact and request ,0.0
+5338,scenario   have   red that     integral part   our identity ,0.0
+5339,our users are asking for transparent tiles including primary tile ,0.0
+5341,this leaves       bad place where   have   either sacrifice our branding   don   provide the required functionality,0.0
+5342,proposed solution have   independent color setting for store specific branding,0.0
+5343,currently didn   support unicode ,0.0
+5344,  made   simple test code using korean language ,0.0
+5345,and exception   raised ,0.0
+5351,    look   appx the new installation mechanism     much saner version   app installation then the more applications   allows the better ,0.0
+5353,  example   interactive screen sharing app ,0.0
+5355,  far     know this wouldn     possible with centennial     exists today but these kinds   apps are still valuable ,0.0
+5359,centennial takes big steps towards that but     like     even further ,0.0
+5363,not just months ,0.0
+5368,  have   style targeting   fonticon control with   setter for the fontfamily ,0.0
+5376,the open source platform ionic has such   market place and   think     great ,0.0
+5382,there exist   couple   uwp libraries but their purpose   not   show beautifully designed apps implementing the material design principles   the framework ,0.0
+5388,    now uielement clip accepts only rectanglegeometry   uwp applications ,0.0
+5392,when uwp app has   splash screen with transparent background color declared   the app manifest desktop renders the accent color while phone renders the background color ,0.0
+5395,  belongs   india and want   register   self   microsoft developer ,0.0
+5396,  need   pay life time registration fee for this ,0.0
+5397,when try   pay   fee there   only one option   make payment which   credit card ,1.0
+5398,  more options are there ,0.0
+5399,    not have credit card therefore unable   make payment ,0.0
+5401,  have all these things but does not have only credit card and cause   only this minor reason     unable   make payment ,0.0
+5414,when games get released   steam valve promotes the game for free   displaying     mln users ,0.0
+5416,earlier there was option   cumulative download   all the app and now there   now way   can see total number   app downloads till date ,0.0
+5418,  report specially   know how many users have updated     specific version   the app ,0.0
+5421,  some     computers   only need the tools for phone deployment such   winappdeploycmd ,0.0
+5423,  don   code   all these machines   only need the tools ,0.0
+5424,  copied the tools out separately and they are only   ,0.0
+5425,they work fine without the headers and libraries installed ,0.0
+5436,this feature   really usefull   messaging apps ,0.0
+5440,    the right place   report bugs   microsoft ,0.0
+5441,why     need   call bug reports new ideas ,0.0
+5444, administrator     listing this one     bug because   consider     existing security issue that can   exploited   present but please feel free   categorize   however you see fit   always ,0.0
+5448,therefore malicious parties could use any url location they would like under their control for the webauthenticationbroker authenticate calls   phish the credentials   users   this process   users   not see understand the url   which the process   loading the content for the authentication workflow and therefore cannot validate its authenticity ,0.0
+5450,for context here are the steps     understand them that can   used   exploit this process ,0.0
+5460,that   where your creativity comes   ,0.0
+5465,    works pass the user     the real sign   page   better yet simply set cookies   the user   session that makes   seem all     ,0.0
+5467, rule planet earth with your new found powers     made this one   ,0.0
+5468,for reference this   based     thread started   the msdn forums which you can see here for additional information ,0.0
+5470,thank you for any consideration ,0.0
+5476,adding developer revenue   iap price info   response will allow developers   receive accurate data about their income   requested period ,0.0
+5487,    can get the sid   the groups   the user ,0.0
+5488,most companies want   control the access   the user   the active directory ,0.0
+5489,the enterprise application uses this information whether   user got access   not ,0.0
+5491,please help   out ,0.0
+5493,  are   isv who live   out   the united states ,0.0
+5494,when   want   set app price dev center offers     dolloar for base price ,0.0
+5495, previous version   dev center was able   set   local currency ,0.0
+5496,this   degraded ,0.0
+5497,usd   not familiar for   ,0.0
+5498,   use different local currency basically ,0.0
+5499,there     conversion list between usd and local currency ,0.0
+5500,microsoft sometimes changes conversion rate due   foreign exchange conversion rate ,0.0
+5501,because   this     hard   find expected price   our local currency ,0.0
+5504,conversion rate seems not constant because   this     hard   find our expected price ,0.0
+5525,  have certificate   user storage and app storage with same issuer and subject but with different eku fields ,0.0
+5526,certificate   user storage   filtered out and that   the one     interested   ,0.0
+5527,  need   check       installed already   not and function checking   returned false because   this and   ended   installing new one every time ,0.0
+5528,and none   those duplicates are listed ,0.0
+5532,today the   designer could not work because   cannot parse the node ,0.0
+5545,currently the rates reviews user submitted   win insider preview will   disabled later ,0.0
+5546,and   devs respond   that reviews   will also   deleted ,0.0
+5547,this   ridiculous behavior for both users and devs ,0.0
+5548,    will disable rates reviews sent from win   disallow users   rate review ,0.0
+5549, improvements   windows store apps and games visibility,0.0
+5551,currently     not possible   export the app download statistics automatically via   api   the windows dev center ,0.0
+5555,currently microsoft doesn   have any specific support for beacons ,0.0
+5556,beacons are the next generation rulers   the market ,0.0
+5557,    windows developer   don   see   good future for windows here,0.0
+5558,when ever   contact any manufacturer   beacons they basically hesitate   support windows because the limitation   the windows featurest ,0.0
+5559,  don   have any separate library for beacons ,0.0
+5560,beacon also considered   normal bluetooth device ,0.0
+5561,currently   can only read that too has many limitations   can   communicate ,0.0
+5562,this     big drawback ,0.0
+5563,  expected this will   solved   windows but not yet ,0.0
+5564,till now many clients for   company left out windows and they moved   ios and android ,0.0
+5565,  this   going   continue then windows will face huge drawback ,0.0
+5566,  have raised many questions related   this   community forum ,0.0
+5567,there was   input from there ,0.0
+5568,    not sure you guys will have   look   this quickly   not ,0.0
+5569,even   you have   look     not sure about your priority ,0.0
+5570,windows wings are currently cut down   this area ,0.0
+5583,  wpf you can use textures and patterns for your app background with the tilebrush class ,0.0
+5584,since imagebrush inherits from tilebrush there     missed property tile ,0.0
+5587,  windows forms     easy   have users print without   dialog and   code the printer output   use   specific paper bin ,0.0
+5588,this functionality   missing   uwp ,0.0
+5589,one   our applications has users print checks from   shared check printer with the check stock   tray ,0.0
+5590, users   sites   this and   has worked fine     for the last years ,0.0
+5591,now that   want   upgrade the applications     modern environment   find that uwp does not     and wpf makes   hard leaving only winforms ,0.0
+5592,right now you can not register them forever ,0.0
+5594,for example the pro extension stands usually for   better version   the same app from the same developer ,0.0
+5595,but   someone else uses this     misleading ,0.0
+5613,    working   multinational company,0.0
+5616,    always the accent color and cannot   changed ,0.0
+5619,currently the windows blog commenting system suffers from   myriad   problems ,0.0
+5625,conversely with disqus you get the following benefits ,0.0
+5631,  blog post has been created   discuss these issues   length and you can read that here ,0.0
+5634,thank you for any consideration and dialogue around this idea ,0.0
+5644,this   ridiculous ,0.0
+5645,also and perhaps more importantly developers need this ,0.0
+5646,  you know how many hoops   have   jump though   make   app that simply takes photos and puts them     network location too many ,0.0
+5649,    crazy that such basic functionality   not currently supported almost every device   the planet supports this other than windows phone ,0.0
+5650,what makes this even more important   the fact that     already supported   uwp apps when they are running   desktop laptops and tablets ,0.0
+5651,but the same file picker   phone   just missing this universal functionality ,0.0
+5661,    having difficulty testing     app purchase that   successful with microsoft   servers yet somehow   app never receives that success message ,0.0
+5663,  have made   private test app and   use real money   test iap ,0.0
+5664,this makes   hard   test when there     cost   every test   perform ,0.0
+5665,  would prefer     able   test iap hundreds   times without having   attempt   get   refund for thousands   dollars ,0.0
+5666,this   currently not possible   test using currentappsimulator ,0.0
+5667,apple and google also provide such   sandbox environment where iap does not cost real money ,0.0
+5677,  have   parent application that stores files within app space ,0.0
+5678,now when   wish   open   file the launcher asks     choose   target application ,0.0
+5681,myapp has   file abc pdf ,0.0
+5682,  opening the file abc pdf from myapp the launcher provides   list   applications that can open this file ,0.0
+5683,assuming   choose pdf reader   want myapp   know when pdf reader has closed   stopped accessing   file     abc pdf,0.0
+5687,code analysis will often warn   you expose   properlty     uri using   string type can   ignored but     giving   fair warning here   feel ,0.0
+5689,  would like   see system uri supported natively   the runtime when making   binding like this ,0.0
+5690,also     side note the conversion from string breaks throws   exception     bound string   null   empty however   string that   non empty and not   valid uri doesn   throw ,0.0
+5698,however   you have   pin   your system   treats that     biometric device   well ,0.0
+5699,this   not what the documentation indicates ,0.0
+5700,userconsentverifier should not treat   pin     biometric device ,0.0
+5702,right now when displaying online web page   windows webview the hsts security feature   not working ,0.0
+5703,also the webview allows scripts from any source   load even though the page   loaded via https ,0.0
+5706,see these pages for testing hsts and mixed content ,0.0
+5713,  need support for ios the actual app has   lot   problems,0.0
+5716,more like angularjs style ,0.0
+5718,the old one     verbose ,0.0
+5721,unfortunately the glyph activity   never displayed   the tile ,0.0
+5722,but when     using any other glyph such   alarm alert attention     properly displayed ,0.0
+5727,thanks and best regards,0.0
+5729,  are migrating   application from windows   windows ,0.0
+5730,the first problem that   encountred   that   winrt enables   add   service reference   wcf and   uwp   not yet implemented ,0.0
+5731,currently       mixture   some taxes are collected     some have   get paid   the developer ,0.0
+5732,    smaller business this     huge effort and only theoretically possible ,0.0
+5734,  far       informed the competition apple app store google play does this aswell ,0.0
+5735,also   used   collect more taxes than nowadays ,0.0
+5736,look   this old feature request quoting   older developer agreement ,0.0
+5740,  states any current member country   the european union which includes     ,0.0
+5742,nowadays jan   the dev agreements lists austria     country which the developer has   collect the taxes ,0.0
+5744,austria price being selected   the final sale price and includes any applicable taxes ,0.0
+5757,  need     keep the app title bar background   the same with accent color ,0.0
+5758,  windows mobile for mobile connections calling getsignalbars     mobile connection always returns even   the bars displayed   the system are any other value ,0.0
+5759,    working   wifi connection and   both type   connections   windows ,0.0
+5760,  this   bug   something changed       ,0.0
+5761,maxpath   giving     severe headache lately ,0.0
+5762,    been trying   compile some stuff and the compiler   necessarily creating processes with enormous arguments ,0.0
+5763,everything would   fine but maxpath   too short   let   succeed ,0.0
+5764,this   the only reason     got   switch   linux       not     position   change maxpath   rewrite the way the compiler calls processes ,0.0
+5765,please microsoft help ,0.0
+5770,the generated bindings code   very large and not easy   follow ,0.0
+5771,further   doesn   even exist until compilation and even then isn   visible   the user     ,0.0
+5773,need timeout   read from streamsocket just like with old net sockets and serialport ,0.0
+5774,now you have destroy the complete connection     device     bluetooth serial connection does not respond ,0.0
+5775,while this makes   sense   all ,0.0
+5776,there nothing wrong with the connection     just   serial device not responding ,0.0
+5777,javascript provides   history api with which you can manipulation certain aspects   the browsing history ,0.0
+5778,for example history replacestate replaces the url   the current website   the browsing history ,0.0
+5779,however     not possible   detect these changes   webview without injecting javascript   replace the funtion calls ,0.0
+5780,this solution   quite hacky and   lot   work,0.0
+5781,about     apps can not   found   the store ,0.0
+5782,  have about apps and around are visible ,0.0
+5783,even     click   the developer name   still does not show all   apps ,0.0
+5784,        deep link then yes   find the apps and you can download them but   wont find them with keywords   app name ,0.0
+5785,this   the same issue for all windows stores ,0.0
+5787,every version   windows does not show   apps ,0.0
+5788,  actually had one     apps appear and then disappear   day later ,0.0
+5789,this   unacceptable and     strong deterrent   creating apps for windows ,0.0
+5795,phone phone windows and windows ,0.0
+5800,  browser deployment was   excellent feature   silverlight ,0.0
+5801,while most organizations will allow   store apps     still going     very inconvenient   deploy apps through the app store for many reasons ,0.0
+5802,firstly deployment   the app store requires rigorous testing etc from microsoft when the app users won   even   the general public ,0.0
+5805,secondly   have many versions   the same application deployed   different customers ,0.0
+5817,read email access locally   very important   create professional and amazing apps for uwp apps please allow     achieve this ,0.0
+5821,  need set     codes ,0.0
+5825,http request includes get   post request url and body ,0.0
+5826,while android and ios can     ,0.0
+5830,after changing   fullscreen and back the position   the window   wrong and not   influence right ,0.0
+5833,  just found that reading the property   system comment from   file doesn   work   windows ,0.0
+5834,  used storagefile properties getdocumentpropertiesasync   read the properties     file that has comment but documentproperties comment     empty string ,0.0
+5835,same problem happens   windows explorer set   new comment then apply   the file but when you read again there   nothing ,0.0
+5838,currently windows   decides the best internet connection and uses   automatically     have more than one connection like wifi and network cable ,0.0
+5842,uwp still lags all features   regular ado   connect   any   ,0.0
+5843,using   will only provide direct access   sqllite and not regular dbs ,0.0
+5844,  shall change     allow   connectivity via batch data return like return records     time instead   select returning entire   table data   one shot ,1.0
+5846,  appears there     enter file name even when selecting   existing file using filesavepicker   uwp mobile ,0.0
+5847,  seems   work   expected   desktop ,0.0
+5848,you can see   original question   msdn forum below ,0.0
+5852,winjs was designed prior     ,0.0
+5853,some   the capabilities are now provided     such   classses would not have     provided   winjs ,0.0
+5855,edge browser   and   code already provides support for   ,0.0
+5859,unfortunately     also bug infested and lacks fundamental features expected from   graphical debugging tool   ,0.0
+5867,the solution   open sourcing windbg and related tools dbghlp windbg extensions etc which will allow the community   fix and improve what the rather small team   microsoft doesn   manage   ,0.0
+5880,  the moment     impractical for       developer   keep asking   boss for his microsoft account just   create app packages ,0.0
+5882,  have posted     application   windows store with keywords ,0.0
+5890,for     publisher name     application name whole word partial word and     ,0.0
+5905,the app knows that       totaly new clear situation,0.0
+5909,scenario user save   file app   closed directory   deleted renamed next time dlg save file ,0.0
+5922,currently     difficult     some   these things ,0.0
+5923,nesting uicontainers inside     richtextblock   add border elements needed for this ruins the alignment   text ,0.0
+5926,inexplicably the uwp does not include the wpf wrappanel that was introduced nearly years ago ,0.0
+5928,there are other panels   the uwp that   something similar like the wrapgrid but this doesnt work well   the items are variable size ,0.0
+5930,one simple example where the wrappanel   essential   when displaying   tag cloud ,0.0
+5940,there appears       way   deploy   app     windows emulator outside   manually doing     visual studio ,0.0
+5943,without that   have   means   wrap our own tooling   launch and install built apps   the emulator ,0.0
+5945,oddly with windows tooling installed and windows sdk   can actually see the list   windows emulators listed   the appdeploycmd output and need     some post filtering   separate the and emulators ,0.0
+5946,  currently   can use the tooling   get the list   emulators but     try   deploy   them they   start   but app deployment will fail ,0.0
+5958,today   opened the windows dev account payout report   found     advertising and   purchased app already separate into two ,0.0
+5959,why this happen ,0.0
+5961,  developed the app bizview   google analytics client with the same features   official google analytics app   the android store ,0.0
+5972,this question   not because bizview     own app the question   for all developers that works hard ,0.0
+5984,after some diagnosis   found that the issue   caused   the api not handling pdf files encrypted with aes encryption that the later acrobat versions use ,0.0
+5987,when drag dropping files folders onto universal apps the read only attribute   set making   impossible   edit those files folders ,0.0
+5990,after all drag drop     conscious user interaction like   picker and does not happen without their knowledge ,0.0
+5991,apis   not support the configuration   the window background colour ,0.0
+5992,this means that   like groove music   app uses   non white background   noticable section   white appears when   window   dragged     new size ,0.0
+5995,the link above     sway that explains   suggestion better than   can     here ,0.0
+5996,  sincerely hope   makes   difference,0.0
+6009,unfortunately neither the smartcard class nor the smartcardprovisioning class nor any other related class provides   means   retrieving the friendly name later ,0.0
+6021,allow third party apps   manipulate dom elements ,1.0
+6037,  looks     the return value   ,0.0
+6038,windows system power energysaverstatus,0.0
+6041,regardless     threshold set   the energy saver settings ,0.0
+6042,looks like   bug ,0.0
+6043,    using   lumia device with windows mobile build ,0.0
+6044,could someone please have   look into this,0.0
+6047,    frustrated for   devoloper then   app     show   any category and the app can only find per direct search   name ,0.0
+6054,  have released several versions   the app yet   cannot find the number   new users   the number   existing users who have upgraded   the new app version   the dev center ,0.0
+6055,  hope   can set   app price   but   can   now ,0.0
+6056,currently there     way   schedule recurring notifications using scheduledtoastnotification ,0.0
+6058,but this   simply not   elegant solution ,0.0
+6067,all win mac linux have api         but uwp doesn   ,0.0
+6069,when you have   text editor with unsaved changes the standard behavior     ask the user what     before closing ,0.0
+6070,this   not possible   uwp ,0.0
+6074,today   have run into   problem with combobox control ,0.0
+6075,the issue can   easily reproduced ,0.0
+6076,  have two rows and two columns ,0.0
+6077,left column takes   much space   possible and   place the combobox into the right column ,0.0
+6078,  populate the combobox with   few items and run the app ,0.0
+6079,  maximize the window open the combobox popup selection menu minimize and   see the popup moved   the middle   the window ,0.0
+6082,showat show the flyout with the size width defined   the style,0.0
+6083,however showatasync show the flyout with the with   the element passed   parameter and ignore the style ,0.0
+6084,  think its   bug ,0.0
+6087,  would prefer   return   boolean     enum with the fail reason ,0.0
+6088,probably when the location   outside the camera frustum ,0.0
+6094,currently   have   test   the returned points   inside the rect with   size   map actualwidth and map actualheight ,0.0
+6095,  the point   outside   have   divide the result   rawpixelsperviewpixel ,0.0
+6097,  point with   location near the top right corner   the map and inside the map will have   offset   ,0.0
+6098,  the location   slightly   the right the returned point will   instead   you have   divide       factor       lumia ,0.0
+6108,this can   seen   settings page ,0.0
+6110,some apps don   work   background well ,0.0
+6111,downloads may breaks when apps switched ,0.0
+6121,currently when the publisher name   chosen during signup   publisher     derived from that ,0.0
+6122,this publisher     then used   name the app packages and the apps localstorage folder ,0.0
+6123,  you are careless during signup you are stuck and can   change the publisher   and therefore that naming   your packages ,0.0
+6128,super fastest calling with home button shortcut,0.0
+6130, just press key   locked screen for seconds for phone call profile change etc run application ,0.0
+6133,why can   not assign   run application for some button   locked screen ,0.0
+6134,why can   not assign   run application for some screen region   locked screen ,0.0
+6146,home automation     huge market for windows devices ,0.0
+6147,  big piece   this   being able   monitor control   cameras such   the foscam   cameras ,0.0
+6149,right now   can only inspect the server certificate after   request was done   using requestmessage transportinformation ,0.0
+6152,but unfortunately this   application wide and   all certificates   all services   websites that might   called   the app must   included ,0.0
+6153,seems like there     problem with   popup which seems   overlap the application bar ,0.0
+6154,the strange   that when   open the appbar   seems     partially covered ,0.0
+6155,    observed     bot desktop and mobile uwp app ,0.0
+6156,more description and sample code you can find here http stackoverflow com   ,0.0
+6157,  app has   choice submit audit report feedback audit failure,0.0
+6159,example   app that allows users   select   time     tomorrow       something ,0.0
+6160,user can also choose   run everyday every week etc ,0.0
+6166,this feature   available   android   heard even   iphone ,0.0
+6181,since the above code does not set   well known header the above code results     exception misused header name ,0.0
+6192,  company and thousands   others use sketch   develop app interfaces that   then give   our developers ,0.0
+6195,there   currently   way how   display   webview https web page with invalid certificate even with user specific opt   ,0.0
+6198,currently there     such provision and all   employees who are coding and publishing apps easily know the revenue earned ,0.0
+6199,more   earn more chances they will leave and start publishing their own apps ,0.0
+6201,both apple and google allows     create user accounts with release manager role who has   access   sales revenue reports ,0.0
+6202,  windows mobile any third party app can act     caller   app   intercept the call and set the phonecallorigin ,0.0
+6203,but other apps cannot access phonecallorigin from phonecallhistoryentry ,0.0
+6204,when developing coded   test for   localized uwp apps test becomes dependent   texts that are localized ,0.0
+6205,  most controls this can easily   handled     automationid but   the corewindow and messagebox incl buttons you cannot set any automationid     the coded   test has the use the title   find the elements ,0.0
+6208,    two apps with same name one     phone and the other one     desktop ,0.0
+6209,now   created   universal app ,0.0
+6210,tab version have   small number   users   need   upload new universal package   the phone version app ,0.0
+6211,but the problem   the app name automatically reserved   the tab version and the package name also ,0.0
+6212,    not able   associate the application with the phone build   the store because the app name   not reserved   this there     package name   package   for this   the store ,0.0
+6213,how can   resolve this issue without changing the name   the phone build ,0.0
+6228,see below the template     button and the two different renderings ,0.0
+6233,other strange differences did show     well especially   grids but the example above   the craziest one ,0.0
+6234,please tell     you want some details about other mismatches ,0.0
+6235,    developed application which targets windows phone ,0.0
+6236,when xap   deployed   win mobile device   has some strange bug ,0.0
+6237,after   installing the app uninstall deploy application   data stays the same   isn   removed after unstalling the app ,0.0
+6238,but when   retarget the app   windows pone problem disappears ,0.0
+6252,however when the barcode   generated   will generate this code   image ,0.0
+6258,  can then enter the encoded image into the above mentioned decoder and   will decode correctly ,0.0
+6272,  can then enter the encoded image into the above mentioned decoder and   will decode more,0.0
+6274,remote desktop services objects for windows store apps are   longer available for use     windows and windows server technical preview ,0.0
+6280,negative reviews are bad especially when users rated   old version   the app which will then turn down new users ,0.0
+6289,back   windows phone silverlight times   was able   get the content   the cameraroll much faster via the medialibrary second for the same amount   files ,0.0
+6290,how can     that this became   extremely slow with the uap ,0.0
+6291,  silverlight   was once possible   register   app     option for the edit picker   the photo hub https msdn microsoft com     library windows apps       aspx ,0.0
+6292,this   not possbile for uap apps ,0.0
+6294,this option   already present   the desktop variant   the app but missing   the mobile app ,0.0
+6299,the equivalent winrt api messagedialog provides   apparent means   copy the message   clipboard   response   right click   response   ctrl   ,0.0
+6305,thanks for your attention ,0.0
+6309,    got   win app   the store ,0.0
+6310,  want   beta test   win version     ,0.0
+6311,    set the app   hide stop selling,0.0
+6312,  then submit the win version and get some promo codes,0.0
+6313,watching   app analytics   see far more devices now have   win app than   intended because updates still get pushed regardless   the listing settings ,0.0
+6326,  you are professional developer redesign your company loves this word the formal business invoice ,0.0
+6334,when microsoft sends   money between the company for your business partner for example outsourced call center   you use credit card for such payment ,0.0
+6340,  could   something like ,0.0
+6341,for input nodes,0.0
+6351,  would   very very appreciated ,0.0
+6357,  have made   app when   search for   apps pops   and   app isn   any   them ,0.0
+6358,  just chatted   support they told   that   was because the name was too generic ,0.0
