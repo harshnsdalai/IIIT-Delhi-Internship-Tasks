@@ -14,7 +14,7 @@
 9660,We need for our applications on each of the mobile platforms to be able to read data on a separate NDEF records contained in an NDEF message.,0
 9670,Provide Process Class/APIs (like that for regular Windows) to develop lower level operations like Task Manager in Windows,1
 9686,Please add the possibility the set price (& market distribution) and trial mode existence individually for the XAPs.,1
-9702,Add the ability to do memory profiling on background agent (periodic) as they are limited on memory and sometimes its too hard to catch memory leaks.,1
+9702,Add the ability to do memory profiling on background agent (periodic) as they are limited on memory and sometimes its too hard to catch memory leaks.,0
 9706,Either one has to use .NET to access a library or Microsoft advises to do a .NET app with native code in a WinRT component.,0
 9709,Don't limit us artifically just because you don't like native developers.,0
 9735,These page templates should be updated to use the medium-sized semibold font by default for the title text.,0
@@ -28,35 +28,35 @@
 9819,Maybe you should think about some way to reward those users who take their time to actually try an app and review it.,0
 9829,It would be great to be able to use the WP8 emulator (and Surface emulator for that matter) for mobility demonstrations i.e. when I deliver a Dynamics CRM demo I often (nearly always) want to include mobility scenarios on the same screen as the rest of the demo.,0
 9873,It will even allow seamless migration to new hardware.,0
-9926,I would like to ask Microsoft to give us a tool(option in emulator) with which we can take screenshots once in one emulator and it will produce screenshots in all resolutions and all languages supported by our app.,1
+9926,I would like to ask Microsoft to give us a tool(option in emulator) with which we can take screenshots once in one emulator and it will produce screenshots in all resolutions and all languages supported by our app.,0
 9929,You have to run one emulator take screenshots close it and run another and so on.,0
 9978,SharpDX proves that those key technologies can be made available to CSharp: I would suggest to either support the project or to provide your own interface.,1
-9980,It would be more natural to allow the physical search key to activate the search function on the active application rather than loading Bing which is rarely the goal.,1
+9980,It would be more natural to allow the physical search key to activate the search function on the active application rather than loading Bing which is rarely the goal.,0
 9994,Associate bound objects to data templates implicitly by type instead of explicitly by template name.,0
 10007,For more information see Data Binding.,0
 10027,On WP8 add optional support to hook these hardware keys press events for the lens (plug-in) features...hardware keys should include vol+ vol- stage 1 (light press) camera shutter stage 2 (deep press) camera shutter.,0
 10028,"When an application has problems or when a problem is detected in advance by the developer until the publication of the correction version the client is without knowing what is happening, it would be possible for Microsoft to implement a communications resource developer for customers who have installed its application?",0
 10168,Read/write accsess to email sync settings could enable applications to create custom sync profiles (based on week-days time position etc).,0
-10203,It s impossible to connect easily to ftp network I suggest to include it in the future sdk.,0
+10203,It s impossible to connect easily to ftp network I suggest to include it in the future sdk.,1
 10204,I hope Microsoft can open Asia voice function fastest,0
 10212,We need support special multitasking tasks like VOIP and IM!,1
 10260,Please add the possibility to add your own spell check service or provide the data if a system wide one existed.,1
 10267,If Microsoft created some incentives like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off.,0
 10297,I would be a really nice gesture to have an option wich can put everything to the other side so when left handed people scroll they could also see the content.,1
-10389,It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export or using the files directly as a feed.,1
+10389,It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export or using the files directly as a feed.,0
 10408,currently you can only pin an album but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it.,0
 10459,why shouldn't I as user be able to see reviews made by people from other countries?,0
 10469,For apps that synchronize or connect to networks sporadically it would be handy to have an easy way to detect if you are on a cheap connection so if WiFi is connected or the device is connected to the web via USB.,0
 10474,So suggestion is to add properties like “IsWiFiConnected” and “IsCableConnected” to DeviceNetworkInformation that execute fast.,1
 10492,Give developers good explanation what they do wrong and enforce good design.,0
 10494,Apps should take no longer than 2-3 seconds to start and need to explain why they would take longer.,0
-10540,Please provide APIs for call forwarding and other call management functions(hold/unholdswapconferenceetc),1
+10540,Please provide APIs for call forwarding and other call management functions(hold/unholdswapconferenceetc),0
 10541,As a user I would like to be able to select songs that I have put on the device (from my library) to wake up to.,1
 10573,Thus this idea is actually for the developers to make scrolling faster after each subsequent scroll like every 5 scrolls the scrolling speed will increase..,1
 10583,in addition the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur allow with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder,0
 10600,We need the ability for developers to add relevant tags to their app descriptions we then need the ability to search for apps with those tags tags should also be verified during app submission to ensure theyre relevant,1
 10633,It will be pleasant to go the main page of the app in the marketplace to see the general présentation screenshots & the other users reviews,0
-10636,Allow user to send Video Audio and more pictures in an MMS now only one pic is supported,0
+10636,Allow user to send Video Audio and more pictures in an MMS now only one pic is supported,1
 10649,Allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available.,1
 10655,Since windows phones are selling hot in countries like India browser should start displaying Indian language characters.,0
 10677,And a smart dialer can then be a full alternative to the built-in phone app since the app also can have a quick-button for goto the regular phone app whenever the user wants to do that.,0
@@ -85,7 +85,7 @@
 3034,What I want is to drag and drop a file then be able to get its full path and file name as stored on the disk and access it using standard C++ IO file access functions such as fopen fread etc.,0
 3035,I don't want to use XAML because: it looks complicated it looks like it can reduce performance I'm making 3D heavy DirectX based applications that need full performance.,0
 3045,For example I drag and drop a BMP image my app compresses it and saves as PNG image automatically in the same folder with the same name.,0
-3057,Dual screen + Google Card Glass fulfill the function and make the application very attractive.,1
+3057,Dual screen + Google Card Glass fulfill the function and make the application very attractive.,0
 3064,We wanna to commuicate other App in Desktop.,0
 3065,not only other UWP but WPF application.,0
 3073,I've done the same tests in UWP mode using DXGI_SWAP_EFFECT_FLIP_DISCARD and results were the same slow as in Win32/WinAPI.,0
@@ -102,7 +102,7 @@
 3176,For example lets say I want to create shorthand for aligning a control inside RelativePanel fully horizontal like AlignHorizontalWithPanel.,0
 3183,Allows desktop apps to incrementally adopt UI innovations and creates a bridge to UWP for app UI.,0
 3184,I tried the converted app using IME.,0
-3188,We want to improve support Google IME.,1
+3188,We want to improve support Google IME.,0
 3194,I thinks it's not difficult to do since Cortana for PC supports up to 13 languages as listed on https://support.microsoft.com/en-us/instantanswers/557b5e0e-0eb0-44db-87d6-5e5db6f9c5b0/cortana-s-regions-and-languages,0
 3240,You can verify this with the CameraStreamCorrelation sample.,0
 3243,The following streams are available on the PC:,0
@@ -115,7 +115,7 @@
 3270,xbox dev mode companion work ipv6 please...,0
 3271,"Make it really smooth to update code of a UWP app,  like you are already doing with the XAML part the app is automatically reloaded without being shut down and relaunched.",1
 3284,A XAML designer for Visual Studio in Windows 7.,0
-3304,The control would allow for the use of the contact picker but allows for manual entry and deletion of contacts.,0
+3304,The control would allow for the use of the contact picker but allows for manual entry and deletion of contacts.,1
 3309,To give the user a sense of consistency the file picker remembers the last location that the user navigated to and will generally start at that location.,0
 3311,This is not always the best solution for example pretend you had a UWP app that asked the user to select a picture and a music file.,0
 3336,I am migrating my app from Windows Desktop using Core Audio API to UWP using hopefully AudioGraph.,0
@@ -135,7 +135,7 @@
 3574,Developers need to have good and deep understanding of how UI virtualization works on UWP app,0
 3600,Currently you can use the Pivot or there are 3rd-party vendors providing a TabControl.,0
 3686,I'm converting some wpf apps to uwp and I'm missing a report control.,0
-3697,Please open up the base classes for inheritance and provide a sample how to create a custom virtualizing panel.,1
+3697,Please open up the base classes for inheritance and provide a sample how to create a custom virtualizing panel.,0
 3706,Without this UWP is more or less a toy because any customization requires that the app be deployed completely separately.,0
 3718,This is only relevant for desktop UWP apps.,0
 3722,You can at least provide any of these solutions.,0
@@ -163,7 +163,7 @@
 3931,It seems that animated GIFs disappear when application minimizes / restores.,0
 3956,* Allow the user to select items drag them around and resize them.,1
 3964,We currently have a store app that works with our desktop app and it causes a great deal of confusion.,0
-3971,if you need anything from me for any reason I will do what ever I need to do to improve our software for our users.,1
+3971,if you need anything from me for any reason I will do what ever I need to do to improve our software for our users.,0
 3979,As developer I want to create custom picker like Date or Time pickers,0
 3991,you can't scroll at that point.,0
 4014, In an XAML page there are some buttons and command bar buttons both of which have access keys set.,0
@@ -220,7 +220,7 @@
 4553,For example a user send us a feedback to ask a Windows 8.1 RT version of our app but now we are focused on Windows 10 so we need to be clear that we read his feedback but it's not on our roadmap.,0
 4555,After that the Age Rating questionnaires stop submitting when you press submit.,0
 4572,An example of this An application as a node in an internal media network would be something along the lines of AudioBus for iOS.,0
-4575,Extrapolate the above capabilities to Audio allowing on-the-fly add/remove interconnectable/reroutable audio nodes (virtual interface devices) to which Apps/Devices would attach to instead of attaching only to hardware interfaces.,0
+4575,Extrapolate the above capabilities to Audio allowing on-the-fly add/remove interconnectable/reroutable audio nodes (virtual interface devices) to which Apps/Devices would attach to instead of attaching only to hardware interfaces.,1
 4578,Same for video not only making (desktop/window) screen capture a breeze and naturally handle by the OS it would also allow the creation of virtual screens (resource permitting of course for desktop expansion/mirroring) outputting them to a video input/recording apps USB3 or even to a DLNA receiver screens.,0
 4582,This would allow the user through the OS to detach an App media output from its default interface (audio/midi card screen/window) and re-attach it to another App (or device) input.,0
 4587,What if we will exchange apps reviews?,0
@@ -243,7 +243,7 @@
 4625,I see the point that insiders shouldn't bring down the ratings of the app if the OS is to blame.... but with so few people rating anyway and most people being on the fast insider ring it makes it extremely hard to get reviews.,0
 4626,Old Windows Phone 8.1 retain their status of being the most highly rated just because of this.,0
 4627,What's the point of having a rule if that means there's too few reviews and no point for most people to post reviews at all?,0
-4628,I'm not quite sure what a good solution is you cold allow only 3+ reviews for fast insiders but I guess that might skew reviews too positively.,0
+4628,I'm not quite sure what a good solution is you cold allow only 3+ reviews for fast insiders but I guess that might skew reviews too positively.,1
 4629,Or why not let the text review stand even if the rating doesn't count?,0
 4631,As it is getting an accurately impressions of apps through reviews doesn't seem feasible.,0
 4651,The caller does not have the required permission to perform this operation.,0
@@ -325,7 +325,7 @@
 4873,The use of the file type filter makes no sense when you are picking a folder and it's not menioned in the documentation,0
 4875,Suppose we have an app with two modes like Zune - normal and mini.,0
 4876,In the mini mode the app only presents the indispensable and small elements on the window.,0
-4879,I know maybe it's not at the Microsoft's priority list but I believe we can somehow make it available.,1
+4879,I know maybe it's not at the Microsoft's priority list but I believe we can somehow make it available.,0
 4882,But that would be nice.,1
 4883,We do like to build universal Windows apps.,0
 4893,At the moment it is possible to install to the application install directory but the files there cannot be altered by the application.,0
@@ -335,7 +335,7 @@
 4898,A potential user viewing in the store will most likely make his judgement to download based on the number of reviews and quality of reviews (especially since the windows store does not show the total number of downloads).,0
 4900,So for app publishers this will be a reason to keep app updates to an absolute minimum in order to get as many ratings as possible.,0
 4902,Or at least Last 30 days.,0
-4911,I want to know it to make custom title bar that looks exactly as defult one except with my controls.,1
+4911,I want to know it to make custom title bar that looks exactly as defult one except with my controls.,0
 4912,I'm able to get SystemAccentBrush but I can't get actual window title bar's color becouse it depends on this Show accent color setting.,0
 4913,I've already asked the forum (where you can find the detailed description on the issue),0
 4917,If often mis-classify the direction.,0
@@ -400,7 +400,7 @@
 5035,I checked with multiple clock tile apps in the store and they all have this same fundamental issue.,0
 5036,(blank or app logo on tile until tile notification refreshes).,0
 5038,Something like what HTC shipped with their Windows Phones.,0
-5039,In an effort to minimize overhead may the system settings could allow for only one selected clock app to be running?,0
+5039,In an effort to minimize overhead may the system settings could allow for only one selected clock app to be running?,1
 5047,Right now creating an isolated environment fails for some installers.,0
 5051,I was able to run the converter on build 14316 and 14352.,0
 5052,However on build 14383 I got this error.,0
@@ -462,7 +462,7 @@
 5185,User can't be expected to keep the window maximized.,0
 5186,This makes sense for phones and tablet mode but for desktop and dedicated use devices it's just a limitation.,0
 5187,IoT supports a single app so it isn't affected but Windows 10 Mobile is.,0
-5192,Issues like this make it hard to use UWP in business use cases.,1
+5192,Issues like this make it hard to use UWP in business use cases.,0
 5195,If UWP is to take over for Win32 this is basic requirement.,0
 5199,We're trying to build a solution based on Windows Mobile that runs a single Assigned Access app.,0
 5201,I can use Fiddler on my desktop to view my network traffic.,0
@@ -665,7 +665,7 @@
 5765,PLEASE MICROSOFT HELP!,0
 5770,The generated bindings code is very large and not easy to follow.,0
 5771,Further it doesn't even exist until compilation and even then isn't visible to the user in VS.,0
-5773,Need timeout on read from StreamSocket just like with old .net sockets and serialport.,1
+5773,Need timeout on read from StreamSocket just like with old .net sockets and serialport.,0
 5774,Now you have destroy the complete connection if a device on a Bluetooth serial connection does not respond.,0
 5775,While this makes no sense at all.,0
 5776,there nothing wrong with the connection it is just a serial device not responding.,0
@@ -683,7 +683,7 @@
 5789,This is unacceptable and is a strong deterrent to creating apps for Windows.,0
 5795,Phone 8.1 Phone 10 Windows 8 8.1 and Windows 10.,0
 5800,In-browser deployment was an excellent feature of Silverlight.,0
-5801,While most organizations will allow in-store apps it's still going to be very inconvenient to deploy apps through the app store for many reasons.,0
+5801,While most organizations will allow in-store apps it's still going to be very inconvenient to deploy apps through the app store for many reasons.,1
 5802,Firstly deployment in the app store requires rigorous testing etc. from Microsoft when the app users won't even be the general public.,0
 5805,Secondly we have many versions of the same application deployed to different customers.,0
 5817,"Read email access Locally is very important to create professional and amazing apps for UWP apps, please allow us to achieve this!",1
